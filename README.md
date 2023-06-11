@@ -2,6 +2,10 @@
 enable hyper v in window 11
 
 
+video link -  https://youtu.be/DM275xpVZFE
+
+
+
 Windows 11 Home edition does not include support for Hyper-V. Hyper-V is a virtualization technology provided by Microsoft, primarily available in Windows 11 Pro, Enterprise, and Education editions.
 
 process 1 -
